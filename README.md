@@ -15,6 +15,7 @@ Press:
   'C' to change color scheme.
   'R' to show room numbers on the tiles.
   'S' to save a PNG of the map.
+  Right-Click to generate a new map.
 
 I really enjoyed getting to this point without code examples, it has given me a lot to think about.
 
